@@ -24,24 +24,12 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-| Usuário do sistema | Verificar por categoria            | Ter outras opções de compra segura.    |
-|                    | sites seguros                      |                                        |
-|--------------------|------------------------------------|----------------------------------------|
-| Usuário do sistema | Digitar uma url e ver se é segura  | Ter certeza que esta comprando com     |
-|                    |                                    | seguranca                              |
-|--------------------|------------------------------------|----------------------------------------|
-| Administrador do   | Habilitar/Desabilitar cadastro     | Site pode ter sido cadastrado sem      |
-| sistema            | de sites seguros                   | ser realmente seguro                   |
-|--------------------|------------------------------------|----------------------------------------|
-| Administrador do   | Cadastrar novos sites              | Incluir site na base de dados          |
-| sistema            |                                    | do sistema                             |
-|--------------------|------------------------------------|----------------------------------------|
-| Administrador do   | Excluir cadastros de sites         | Remover site da base de dados          |
-| sistema            |                                    | do sistema                             |
-|--------------------|------------------------------------|----------------------------------------|
-| Administrador do   | Alterar cadastros de sites         | Alterar site da base de dados          |
-| sistema            |                                    | do sistema                             |
-|--------------------|------------------------------------|----------------------------------------|
+| Usuário do sistema | Verificar por categoria sites seguros | Ter outras opções de compra segura. |
+| Usuário do sistema | Digitar uma url e ver se é segura  | Ter certeza que esta comprando com seguranca |
+| Administrador do sistema | Habilitar/Desabilitar cadastro de sites seguros | Site pode ter sido cadastrado sem ser realmente seguro |
+| Administrador do sistema | Cadastrar novos sites | Incluir site na base de dados do sistema |
+| Administrador do sistema | Excluir cadastros de sites | Remover site da base de dados do sistema |
+| Administrador do sistema | Alterar cadastros de sites | Alterar site da base de dados do sistema |
 
 Elisiana: Quero entrar em um site que eu me sinta segura ao comprar.
 Maria do Carmo: Quero ter certeza que não estou entregando meus dados para alguem mal intencionado.
