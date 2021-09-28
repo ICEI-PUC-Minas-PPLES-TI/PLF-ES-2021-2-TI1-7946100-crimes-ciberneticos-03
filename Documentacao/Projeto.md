@@ -1,19 +1,19 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Safe Buy Check`  
 
 Trabalho Interdisciplinar - Aplicacões Web
 
-`CURSO`
+`Engenharia de Software - Noite`
 
-`SEMESTRE`
+`1º Semestre`
 
 ## Participantes
 
 Os membros do grupo são: 
-- Fulano da Silva
-- Ciclano Albuquerque
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
+- Marco Willy Azevedo Gomes
+- Guilherme Carlo Evangelista Guerra
+- Samuel Ferreira dos Santos
+- Matteus Schroer Del Cantoni
 
 # Estrutura do Documento
 
