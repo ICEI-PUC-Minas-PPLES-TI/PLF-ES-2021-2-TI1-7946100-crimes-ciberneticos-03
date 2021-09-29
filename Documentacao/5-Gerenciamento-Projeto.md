@@ -42,3 +42,4 @@ diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
 > Utilizamos o trello para gerenciamento de tarefas e o slack para code review.
+![Exemplo de UserFlow](images/kanban.png)

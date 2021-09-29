@@ -4,10 +4,14 @@
 
 ## Tecnologias Utilizadas
 
-> Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
-> problema, ou seja, implementar a sua solução. Liste todas as
-> tecnologias envolvidas, linguagens a serem utilizadas, serviços web,
-> frameworks, bibliotecas, IDEs de desenvolvimento, e ferramentas.
+> - Front-End: HTML, CSS, JavaScript.
+> - Apis: Receita Federal
+> - Framework: Bootstrap
+> - IDEs: Intellij, VSCode.
+> - Versionamento: Git, GitHub.
+> - Back-End: Java (RestFul) - Spring Boot
+
+> Em desenvolvimento.
 > Apresente também uma figura explicando como as tecnologias estão
 > relacionadas ou como uma interação do usuário com o sistema vai ser
 > conduzida, por onde ela passa até retornar uma resposta ao usuário.
@@ -19,6 +23,7 @@
 
 ## Arquitetura da solução
 
+> Em desenvolvimento.
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
 
@@ -46,4 +51,4 @@ escolher salvar ou deletar o post. Em ambos os casos o status é
 notificado para o usuário (Tela 8) e em seguida ele é redirecionado
 para a Tela 2.
 
-![Exemplo de UserFlow](images/userflow.jpg)
+![Exemplo de UserFlow](images/userflow.png)
