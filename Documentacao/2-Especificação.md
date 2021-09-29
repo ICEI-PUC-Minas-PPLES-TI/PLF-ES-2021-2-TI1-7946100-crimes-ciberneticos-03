@@ -16,7 +16,7 @@ Maria do Carmo tem 42 anos, é costureira atua a anos com isso.
 Pensa em abrir um negocio proprio.
 
 Bruna tem 24 anos, é youtuber.
-Pensa em abrir um negocio proprio é contuar negocio digital que já da certo.
+Pensa em abrir um negocio proprio é continuar negocio digital que já da certo.
 
 ## Histórias de Usuários
 
@@ -47,8 +47,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-002| Permitir que o usuario verifique pela categoria se um site é seguro | ALTA       |
 |RF-003| Permitir que o administrador cadastre novos sites                   | MÉDIA      |
 |RF-004| Permitir que o administrador altere cadastros ja existentes         | MÉDIA      |
-|RF-004| Permitir que o administrador exclua cadastros ja existentes         | MÉDIA      |
-|RF-004| Permitir que o administrador habilite/desabilite cadastros          | MÉDIA      |
+|RF-005| Permitir que o administrador exclua cadastros ja existentes         | MÉDIA      |
+|RF-006| Permitir que o administrador habilite/desabilite cadastros          | MÉDIA      |
 
 
 ### Requisitos não Funcionais
