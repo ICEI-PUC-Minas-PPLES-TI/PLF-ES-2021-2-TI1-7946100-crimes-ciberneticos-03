@@ -11,12 +11,15 @@
 
 Elisiana Muniz de Azevedo tem 38 anos, é farmaceutica recém-formada.
 Pensa em se desenvolver profissionalmente através da pós graduação.
+![elisiana](images/elisiana.jpg)
 
 Maria do Carmo tem 42 anos, é costureira atua a anos com isso.
 Pensa em abrir um negocio proprio.
+![maria-do-carmo](images/maria-do-carmo.jpg)
 
 Bruna tem 24 anos, é youtuber.
 Pensa em abrir um negocio proprio é continuar negocio digital que já da certo.
+![bruna](images/bruna.jpg)
 
 ## Histórias de Usuários
 
