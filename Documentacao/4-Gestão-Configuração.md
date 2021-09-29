@@ -1,9 +1,7 @@
 # Gestão de Configuração
 
-> Nesta parte do documento, você deve apresentar como foi realizada a
-> gestão de configuração do projeto. Isto é, como a ferramenta de
-> controle de versão foi configurada, bem como a hospedagem da
-> plataforma.
+> Git: Versionamento.
+> Github: Armazenar repositorios remotos.
 
 ## Controle de Versão
 
@@ -25,14 +23,11 @@ etiquetas:
 - `enhancement`: uma funcionalidade precisa ser melhorada
 - `feature`: uma nova funcionalidade precisa ser introduzida
 
-> Discuta como a configuração do projeto foi feita na ferramenta de
-> versionamento escolhida. Exponha como a gerência de tags, merges,
-> commits e branchs é realizada. Discuta como a gerência de issues foi
-> realizada.
->
-> **Links Úteis**:
-> - [Tutorial GitHub](https://guides.github.com/activities/hello-world/)
-> - [Git e Github](https://www.youtube.com/playlist?list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+> Escolhemos o git para o versionamento e ultilizamos o github para armazenar os repositorios de forma remota.
+> Gerenciamos as tags com branchs criadas apartir da branch `dev` em desenvolvimento.
+> Issues são criadas apartir da branch de `testing` em teste,
+> Ao ser testado o projeto enviamos para a branch `unstable` em Homologação,
+> apos isso enviamos para a branch `master` em produção.
 
 ## Hospedagem
 
