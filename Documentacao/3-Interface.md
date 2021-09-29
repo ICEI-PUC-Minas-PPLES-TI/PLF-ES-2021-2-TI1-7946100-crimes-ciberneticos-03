@@ -10,7 +10,7 @@
 
 ## User Flow
 
-![Exemplo de UserFlow](images/user flow.png)
+![Exemplo de UserFlow](images/userflow.png)
 
 > - Home > login
 > - Home > sites seguros
