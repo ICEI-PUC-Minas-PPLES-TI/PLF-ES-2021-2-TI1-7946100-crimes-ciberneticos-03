@@ -36,7 +36,7 @@ etiquetas:
 
 ## Hospedagem
 
-> Explique como a hospedagem e o lançamento da plataforma foi feita.
+> Em desenvolvimento.
 >
 > **Links Úteis**:
 >
