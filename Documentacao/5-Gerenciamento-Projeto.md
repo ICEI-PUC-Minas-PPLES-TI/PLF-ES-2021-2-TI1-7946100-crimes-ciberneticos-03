@@ -1,6 +1,6 @@
 # Gerenciamento de Projeto
 
-> - `Scrum`: Mapear o que deve ser feito, por quem deve ser feito e quando será feito.
+> - `Scrum`: Mapeamos com reuniões semanais e mensais o que deve ser feito, por quem deve ser feito e quando será feito.
 > - `Kanban`: Usamos em tarefas específicas sem prazo para terminar.
 
 ## Divisão de Papéis
