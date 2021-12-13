@@ -2,7 +2,7 @@
 
 ## Problema
 > Ao comprar em sites sem conhecimento da procedência do mesmo usuarios estão
-> tendo cartões clonados dados roubado > e informações vazadas.
+> tendo cartões clonados dados roubado e informações vazadas.
 > Usaremos um sistema de verificação de URL's para verificar se o site é seguro ou não.
 
 > **Mapa de stakeholders, design Thinking (CSD), entrevistas, personas**:
