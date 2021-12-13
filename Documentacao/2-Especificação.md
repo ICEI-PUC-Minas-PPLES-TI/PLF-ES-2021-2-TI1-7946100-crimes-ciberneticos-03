@@ -52,6 +52,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| Permitir que o administrador altere cadastros ja existentes         | MÉDIA      |
 |RF-005| Permitir que o administrador exclua cadastros ja existentes         | MÉDIA      |
 |RF-006| Permitir que o administrador habilite/desabilite cadastros          | MÉDIA      |
+|RF-007| Adimistrador deve esta logado para executar ações                   | MÉDIA      |
+|RF-008| Url deve ser valida para verificação da mesma                       | MÉDIA      |
 
 
 ### Requisitos não Funcionais
