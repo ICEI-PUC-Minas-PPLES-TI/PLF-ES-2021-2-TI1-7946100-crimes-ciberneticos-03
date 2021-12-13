@@ -1,7 +1,8 @@
 # Gestão de Configuração
 
-> Git: Versionamento.
-> Github: Armazenar repositorios remotos.
+> `Git`: Versionamento.
+>
+> `Github`: Armazenar repositorios remotos.
 
 ## Controle de Versão
 
