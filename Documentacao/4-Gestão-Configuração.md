@@ -31,12 +31,4 @@ etiquetas:
 
 ## Hospedagem
 
-> Em desenvolvimento.
->
-> **Links Úteis**:
->
-> - [Getting Started with Heroku](https://devcenter.heroku.com/start)
-> - [Crie seu Site com o
->   HostGator](https://www.hostgator.com.br/como-publicar-seu-site)
-> - [GoDady](https://br.godaddy.com/how-to)
-> - [GitHub Pages](https://pages.github.com/)
+> Utilizamos o Replit para hospedarmos o nosso [`sistema`](https://safe-buy-check.marcowilly.repl.co).
