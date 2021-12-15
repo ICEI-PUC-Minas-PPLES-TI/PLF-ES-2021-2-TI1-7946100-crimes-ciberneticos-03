@@ -28,8 +28,12 @@ ele entra na tela de login digita seu usuario, e tem a possibilidade de cadastra
 novos sites seguros.
 
 ### Fluxograma
-![Exemplo de UserFlow](images/Fluxograma.png)
+![Fluxograma](images/Fluxograma.png)
+
+A imagem a seguir representa os componentes da aplicação em sua forma mais enxuta.
+### Componentes
+![Arquitetura](images/arquitetura.png)
 
 A imagem a seguir representa de forma visual o que é mostrado na imagem anterior.
 ### Userflow
-![Exemplo de UserFlow](images/userflow.png)
+![UserFlow](images/userflow.png)
