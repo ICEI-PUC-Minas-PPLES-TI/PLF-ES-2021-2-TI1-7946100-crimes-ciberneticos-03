@@ -1,0 +1,31 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Safe Buy Check
+authors:
+  - family-names: Azevedo Gomes
+    given-names: Marco Willy 
+  - family-names: Evangelista Guerra 
+    given-names: Guilherme Carlo 
+  - family-names: Ferreira dos Santos
+    given-names: Samuel 
+  - family-names: Schroer Del Cantoni
+    given-names: Matteus 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Assis Valentim
+    given-names: Nathalia   
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Vieira Carneiro
+    given-names: Rommel 
+  - name-suffix: Professor
+    affiliation: PUC Minas
+    family-names: Alves Nogueira
+    given-names: Simone  
+keywords:
+  - Verificador
+  - Segurança
+repository-code: https://github.com/ICEI-PUC-Minas-PPLES-TI/PLF-ES-2021-2-TI1-7946100-crimes-ciberneticos-03
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2021-12-22
